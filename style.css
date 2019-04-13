@@ -1,0 +1,39 @@
+body{
+	background: url('hoel.jpg'); 
+	background-size: cover;
+}
+
+.form{
+	margin-top: 100px;
+	text-align: center;
+}
+
+#number{
+	height: 38px;
+	width: 350px;
+	padding-left: 18px; 
+	font-size: 18px;
+	font-weight: 100;
+	background: transparent;
+	border-top: 1px;
+	border-right: 1px;
+	border-left: 1px;
+}
+
+#button{
+	height: 45px;
+	margin-top: 10px;
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    font-size: 20px;
+    color: 
+}
+
+.year{
+	font-weight: 50;
+	font-family: sans-serif;
+	font-size: 30px;
+}
